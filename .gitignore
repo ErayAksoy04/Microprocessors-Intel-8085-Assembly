@@ -1,1 +1,7 @@
-.idea
+# IDE dosyaları
+.idea/
+
+# Derleme ve geçici dosyalar (Assembly için)
+*.obj
+*.lst
+*.exe
